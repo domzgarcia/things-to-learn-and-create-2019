@@ -2,16 +2,16 @@
 
 Frontend
 ---
--[x] React + Redux
--[ ] React Hooks
--[x] Flex CSS
+- [x] React + Redux
+- [ ] React Hooks
+- [x] Flex CSS
 
 Backend
 ---
--[ ] Basic PHP
--[ ] Wordpress
--[ ] Laravel
+- [ ] Basic PHP
+- [ ] Wordpress
+- [ ] Laravel
 
 Showcase
 ---
--[ ] Create Porfolio
+- [ ] Create Porfolio
