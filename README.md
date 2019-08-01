@@ -21,9 +21,9 @@ Databases
 
 Security
 ---
-- [ ] Understanding CSRF
+- [ ] JWT Token
 - [ ] Middlewares
-- [ ] DevOps
+- [ ] DevOps (Nginx, Apache)
 
 Principles
 ---
