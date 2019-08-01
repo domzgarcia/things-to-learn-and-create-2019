@@ -7,12 +7,23 @@ Frontend
 - [x] Flex CSS
 - [ ] Unit Testing
 
-Backend
+Backend PHP
 ---
 - [ ] Basic PHP
 - [ ] Wordpress
 - [ ] Laravel
 - [ ] Unit Testing
+
+Databases
+---
+- [ ] MongoDB
+- [ ] MySQL
+
+Security
+---
+- [ ] Understanding CSRF
+- [ ] Middlewares
+- [ ] DevOps
 
 Principles
 ---
