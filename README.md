@@ -9,7 +9,7 @@ Frontend
 
 Backend PHP
 ---
-- [ ] Basic PHP
+- [x] Basic PHP
 - [ ] Wordpress
 - [ ] Laravel
 - [ ] Unit Testing
