@@ -37,6 +37,11 @@ CodeKatas
 ---
 - [ ] EveryMonday of Week In SQL
 
+Currently
+---
+- [x] Learning Pattern (Strategy, Factory, Repository)
+- [x] Domain, Persistence, Presentation, Service.
+
 Showcase
 ---
 - [ ] Create Porfolio
