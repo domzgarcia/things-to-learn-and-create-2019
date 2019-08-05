@@ -33,6 +33,10 @@ Principles
 - [ ] Unit Testing
 - [ ] SIMPLE Principles
 
+CodeKatas
+---
+- [ ] EveryMonday of Week In SQL
+
 Showcase
 ---
 - [ ] Create Porfolio
