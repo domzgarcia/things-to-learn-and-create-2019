@@ -16,6 +16,7 @@ Backend PHP
 
 Databases
 ---
+- [x] SQLite3
 - [ ] MongoDB
 - [ ] MySQL
 
