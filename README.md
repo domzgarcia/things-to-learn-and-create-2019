@@ -35,7 +35,7 @@ Principles
 
 CodeKatas
 ---
-- [ ] EveryMonday of Week In SQL
+- [ ] Get Every Monday of the Week In SQL Syntax
 
 Currently
 ---
