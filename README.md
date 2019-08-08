@@ -33,6 +33,14 @@ Principles
 - [ ] Unit Testing
 - [ ] SIMPLE Principles
 
+Framework
+---
+- [ ] Laravel
+- [ ] Wordpress
+- [ ] CodeIgniter
+- [ ] Moodle
+- [ ] CRM
+
 CodeKatas
 ---
 - [ ] Get Every Monday of the Week In SQL Syntax
