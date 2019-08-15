@@ -33,6 +33,11 @@ Principles
 - [ ] Unit Testing
 - [ ] SIMPLE Principles
 
+Design Patterns Breakdown
+---
+- [x] Factory, Factory method
+- [x] Builder
+
 Framework
 ---
 - [ ] Laravel
