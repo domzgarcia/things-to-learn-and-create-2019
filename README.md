@@ -50,11 +50,6 @@ CodeKatas
 ---
 - [ ] Get Every Monday of the Week In SQL Syntax
 
-Currently
----
-- [x] Learning Pattern (Strategy, Factory, Repository)
-- [x] Domain, Persistence, Presentation, Service.
-
 Showcase
 ---
 - [ ] Create Porfolio
