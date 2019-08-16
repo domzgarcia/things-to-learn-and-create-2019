@@ -37,6 +37,7 @@ Design Patterns Breakdown
 ---
 - [x] Factory, Factory method
 - [x] Builder
+- [x] Strategy
 
 Framework
 ---
