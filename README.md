@@ -50,6 +50,7 @@ Framework
 CodeKatas
 ---
 - [ ] Get Every Monday of the Week In SQL Syntax
+- [ ] On duplicate key update, SQL queries migrating data
 
 Showcase
 ---
