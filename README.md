@@ -2,6 +2,8 @@
 
 Frontend
 ---
+- [x] Webpack understanding
+- [x] Babel understanding
 - [x] React + Redux
 - [ ] React Hooks
 - [x] Flex CSS
