@@ -33,8 +33,12 @@ Principles
 - [ ] Object Oriented Programming
 - [ ] Design Patterns
 - [ ] Unit Testing
-- [ ] SIMPLE Principles
-  - [x] bb
+- [ ] SOLID Principles
+  - [x] Single Responsibility, descriptive
+  - [x] Open Close ~ use interface to have switch implementations, Abstract method.
+  - [x] Liskov Substitution ~ should remain the expectation whethere extends to parent or child.
+  - [x] Interface Segregation ~ Use multiple interface to prevent from forcing the class to implement function
+  - [x] Dependency Inversion ~ Has high level code which not depend on lowlevel code and both depend on abstraction using interfaces
 
 Design Patterns Breakdown
 ---
