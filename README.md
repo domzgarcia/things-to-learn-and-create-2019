@@ -34,6 +34,7 @@ Principles
 - [ ] Design Patterns
 - [ ] Unit Testing
 - [ ] SIMPLE Principles
+  - [x] bb
 
 Design Patterns Breakdown
 ---
