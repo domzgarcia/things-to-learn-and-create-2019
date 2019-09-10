@@ -33,7 +33,7 @@ Principles
 - [ ] Object Oriented Programming
 - [ ] Design Patterns
 - [ ] Unit Testing
-- [ ] SOLID Principles
+- [x] SOLID Principles
   - [x] Single Responsibility, descriptive
   - [x] Open Close ~ use interface to have switch implementations, Abstract method.
   - [x] Liskov Substitution ~ should remain the expectation whethere extends to parent or child.
