@@ -34,7 +34,7 @@ Principles
 - [ ] Design Patterns
 - [ ] Unit Testing
 - [x] SOLID Principles
-  - [x] Single Responsibility, descriptive
+  - [x] Single Responsibility, should only have one reason to change
   - [x] Open Close ~ use interface to have switch implementations, Abstract method.
   - [x] Liskov Substitution ~ should remain the expectation whethere extends to parent or child.
   - [x] Interface Segregation ~ Use multiple interface to prevent from forcing the class to implement function
