@@ -70,4 +70,4 @@ API Base
 - gRPC
 - GraphQL
 
-(laravel)[https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA]
+[laravel](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
